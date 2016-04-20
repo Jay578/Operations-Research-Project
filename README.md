@@ -1,8 +1,18 @@
-or-project
+Operations Research Exploratory data Analysis Project
 ==========
-Graphing project for Operations Research
+Project to plot data from given INP files 
 
-### to-do list
-1. ~~When user uploads file - clear out all other graphs on the screen~~ (**DONE**)
-2. User should be able to select what type of graph they wish to view
-3. Make things colorful!
+### Done
+1. User can pick a file to  upload
+2. User can pick which graph they want plotted
+3. Graphs done - scatter plot, time series, cumulative trend, arithmetic trend
+
+========
+### To be Done
+1. Graphs - Laplace trend, correlogram
+3. Make things pretty
+
+###Team E members:
+1. Selina Jones
+2. Wale Afolabi
+3. Johnny Carter 
